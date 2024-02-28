@@ -23,3 +23,7 @@ int search(int arr[], int N, int x) {
     return -1;
 }
  
+int main() {
+    std::string input;
+    std::cout << "Enter a string: ";
+    std::cin >> input;
