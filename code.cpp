@@ -11,7 +11,7 @@ int jumpSearch(int arr[], int x, int n) {
         step += sqrt(n);
         if (prev >= n)
             return -1;
-
+//hey lads
 #include <iostream>
 using namespace std;
  
